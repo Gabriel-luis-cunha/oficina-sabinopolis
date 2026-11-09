@@ -11,8 +11,8 @@ export const NOME_OFICINA = 'Oficina Mecânica';
 // A publishable key pode ficar no código: ela sozinha não abre nada.
 // NUNCA coloque aqui a "secret key".
 // ---------------------------------------------------------------
-export const SUPABASE_URL = 'COLE_AQUI_A_PROJECT_URL';
-export const SUPABASE_CHAVE = 'COLE_AQUI_A_PUBLISHABLE_KEY';
+export const SUPABASE_URL = 'https://ngosfujqyxvbwqbhdcan.supabase.co';
+export const SUPABASE_CHAVE = 'sb_publishable_Q78c5CqWti1M9o--ZxikJQ__0ljIFyw';
 
 // Limites de upload
 export const LIMITES = {
